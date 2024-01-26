@@ -3,8 +3,8 @@
 }
 
 .card img {
-    width: 100%;
-    display: block;
+    width: 220px; /* Adjust the width as per your preference */
+    height: auto; /* Maintain aspect ratio */
     border: 2px solid #fff;
     border-radius: 6px;
 }
